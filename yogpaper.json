@@ -1,6 +1,30 @@
 [
   {
     "author": "YoG",
+    "collections": "texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Rough paper 1",
+    "url": "https://yogeshgosavi.github.io/JoyWallsDocs/walls/wall727.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Rough paper 2",
+    "url": "https://yogeshgosavi.github.io/JoyWallsDocs/walls/wall726.jpg"
+  },
+  {
+    "author": "YoG",
+    "collections": "texture",
+    "copyright": "Personal Use",
+    "downloadable": true,
+    "name": "Rough paper 3",
+    "url": "https://yogeshgosavi.github.io/JoyWallsDocs/walls/wall725.jpg"
+  },
+  {
+    "author": "YoG",
     "collections": "simple",
     "copyright": "Personal Use",
     "downloadable": true,
